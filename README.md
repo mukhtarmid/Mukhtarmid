@@ -1,1 +1,16 @@
-Innovative and diligent recent post-graduate in applied mathematics & computation with a significant data science internship experience to bring to the table. With a team-oriented attitude. Proficient in data recognition & linkage, solution strategies, progress mapping, the conceptualization of algorithms, and implementation as well as scripting languages, including Python and SQL. Delivery with technical hands-on experience in technologies such as Linux and Windows. A Research Enthusiast Learner- eager to contribute my abilities in cutting edge research, seeking generic solutions to advance science, thereby benefiting humanity, while making a responsible commitment to the achievement of the organization.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="linkedin.com/in/mukhtar-hamid">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mukhtarmid&style=flat-square&color=blue" alt=""/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
