@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-  <a href="linkedin.com/in/mukhtar-hamid">
+  <a href="https://www.linkedin.com/in/mukhtar-hamid/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -27,7 +27,7 @@ I am an **Aspiring Data Scientist** <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I deep dive into mathematical concepts and read novels on various nations.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mukhtarmid-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/mukhtar-hamid)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mukhtarmid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mukhtar-hamid/)
 
 ---
 
