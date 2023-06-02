@@ -1,44 +1,38 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/mukhtar-hamid/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mukhtarmid&style=flat-square&color=blue" alt=""/>
-  <h1>
-  Welcome to the Simulation !!!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
-  </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="600" height="300"/>
-</div>
+# Hey there :wave:
 
----
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-### :man_technologist: About Me :
-I am an **Aspiring Data Scientist** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a **Mathematician** and **Research Enthusiast**.
+## About me
 
-- :seedling: Exploring generic solution to advance science.
+I'm Hamid Mukhtar. An Analyst Expert on Data. A Data Analyst - Optimisation Specialist at [Mathologic](https://mathologic.com/). Community is :heart:. Code blooded animal, 1xData Analyst :stuck_out_tongue: and :coffee: lover. 
 
-- :zap: In my free time, I deep dive into mathematical concepts and read novels on various nations.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mukhtarmid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mukhtar-hamid/)
 
----
+## Things I am passionate about
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow"  alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda"  alt="Anaconda" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="40" height="40"/>&nbsp;
-</div>
+- Mathematics :mag:
+- Data Science :technologist:
+- Artificial intelligence :robot:
+- Open source :octocat:
 
+## Get in touch :coffee:
+
+- Your future therapist to discuss  related things and in general on [Gmeet](https://calendly.com/mukhtarmid/let-s-talk).
+- Your future employee on [LinkedIn](https://www.linkedin.com/in/mukhtar-hamid/)
+- And of course GitHub you're already on (Recursion).
+
+
+<!--
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
